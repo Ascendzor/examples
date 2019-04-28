@@ -477,5 +477,10 @@
     "name": "serverless-python-rds-cron",
     "description": "A serverless python example that periodically removes entries from AWS RDS",
     "githubUrl": "https://github.com/caulagi/serverless-python-rds-cron"
+  },
+  {
+    "name": "aws-node-websockets",
+    "description": "bootstrap/reference for aws node websocket serverless microservice",
+    "githubUrl": "https://github.com/Ascendzor/aws-node-websockets"
   }
 ]
